@@ -1,0 +1,6 @@
+body.insights-visible .app-sidemenu__sidenav-items-active[_ngcontent-dth-c40] {
+    background: transparent;
+}
+body {
+display: none;
+}

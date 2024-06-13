@@ -1,0 +1,59 @@
+index.js:39 will append
+index.js:39 period
+index.js:14 Highcharts warning: Consider including the "accessibility.js" module to make your chart more usable for people with disabilities. Set the "accessibility.enabled" option to false to remove this warning. See https://www.highcharts.com/docs/accessibility/accessibility-module.
+(anonymous) @ index.js:14
+D @ index.js:14
+b @ index.js:14
+warnIfA11yModuleNotLoaded @ index.js:14
+onload @ index.js:14
+firstRender @ index.js:14
+(anonymous) @ index.js:14
+D @ index.js:14
+init @ index.js:14
+getArgs @ index.js:14
+ft @ index.js:14
+chart @ index.js:14
+(anonymous) @ index.js:15
+(anonymous) @ index.js:1
+fs @ index.js:1
+Ti @ index.js:1
+i.__weh.i.__weh @ index.js:1
+Xo @ index.js:1
+yp @ index.js:1
+Promise.then (async)
+gp @ index.js:1
+aa @ index.js:1
+(anonymous) @ index.js:1
+Nu @ index.js:1
+sc @ index.js:1
+oa @ index.js:1
+(anonymous) @ index.js:1
+Nu @ index.js:1
+sc @ index.js:1
+oa @ index.js:1
+(anonymous) @ index.js:1
+Nu @ index.js:1
+sc @ index.js:1
+oa @ index.js:1
+set value @ index.js:1
+D @ index.js:5
+(anonymous) @ index.js:5
+Promise.then (async)
+W @ index.js:5
+m @ index.js:5
+install @ index.js:5
+use @ index.js:1
+(anonymous) @ index.js:39
+index.js:39 set min
+index.js:39 set max
+index.js:39 fetchopt
+index.js:13 {email: 'richard.robertson@younium.com', userRights: {…}}
+index.js:13 200
+overview:10 
+        
+        
+       GET https://insights-vue-app.younium.net/assets/css/bootstrap.min.css net::ERR_ABORTED 503 (Service Unavailable)
+overview:12 
+        
+        
+       GET https://insights-vue-app.younium.net/styles.4ab12e3625ed121a.css net::ERR_ABORTED 503 (Service Unavailable)
